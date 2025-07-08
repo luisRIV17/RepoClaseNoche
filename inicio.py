@@ -6,3 +6,4 @@ print("Elija una opcion ")
 print("Elija una opcion ")
 print("Elija una opcion ")
 
+print(":)")
